@@ -1,4 +1,4 @@
-# af2_multimer_ppi_md
+# AlphaFold-Multimer_PPI_MD
 Protein-Protein Complex Conformational Sampling via AlphaFold-Multimer and Molecular Dynamics
 
 
