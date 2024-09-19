@@ -71,7 +71,7 @@ tleap -s -f tleap.in > tleap.out
 
 ```
 
-### run rolecular dynamics
+### Run molecular dynamics
 
 ```
 
