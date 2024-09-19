@@ -91,7 +91,7 @@ https://github.com/bjornwallner/DockQ
 *  Mirabello, C. and Wallner, B., 2024. DockQ v2: Improved automatic quality measure for protein multimers, nucleic acids, and small molecules. bioRxiv, pp.2024-05.  
 
 ## License
-Code is released under MIT LICENSE.
+Code is released under GNU GENERAL PUBLIC LICENSE.
 
 
 ## Cite:
