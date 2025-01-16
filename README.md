@@ -88,7 +88,7 @@ DockQ: A Quality Measure for Protein-Protein Docking Models
 https://github.com/bjornwallner/DockQ
 
 *  Basu, S. and Wallner, B., 2016. DockQ: a quality measure for protein-protein docking models. PloS one, 11(8), p.e0161879.
-*  Mirabello, C. and Wallner, B., 2024. DockQ v2: Improved automatic quality measure for protein multimers, nucleic acids, and small molecules. bioRxiv, pp.2024-05.  
+*  Mirabello, Claudio, and Björn Wallner. "DockQ v2: Improved automatic quality measure for protein multimers, nucleic acids, and small molecules." Bioinformatics 40.10 (2024): btae586.  
 
 ## License
 Code is released under GNU GENERAL PUBLIC LICENSE.
