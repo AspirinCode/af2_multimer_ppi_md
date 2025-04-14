@@ -1,7 +1,8 @@
 # AlphaFold-Multimer_PPI_MD
-Protein-Protein Complex Conformational Sampling via AlphaFold-Multimer and Molecular Dynamics
 
+**Protein-Protein Complex Conformational Sampling via AlphaFold-Multimer and Molecular Dynamics**
 
+Protein-protein interactions play a critical role in various biological processes, and accurately predicting their conformations remains a challenging task. In this study, we explore the conformational sampling of protein-protein complexes using AlphaFold-Multimer and molecular dynamics (MD) simulations. AlphaFold-Multimer was employed to generate multiple structural models with different initialization seeds, MSA depths, and dropout layer activation to assess its conformational diversity. Additionally, MD simulations were conducted using the Amber24 package to investigate the dynamic nature and stability of AlphaFold-Multimer-generated structures. The results were evaluated using metrics such as DockQ and iRMSD, which provide insights into the quality and accuracy of the predicted conformations. Our findings demonstrate that integrating AlphaFold-Multimer conformational sampling with MD simulations enhances the understanding of protein-protein complex dynamics, offering a more comprehensive approach for structural characterization.
 
 
 
