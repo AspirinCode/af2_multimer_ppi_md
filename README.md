@@ -38,6 +38,10 @@ https://github.com/mdtraj/mdtraj
 
 ## Molecular dynamics
 
+Crystal structure of the Skp1-FBG3 complex：[3WSO](https://www.rcsb.org/structure/3WSO)
+
+
+
 ### prpepare  topology and coordinate files
 ```python
 pdb4amber -i A.pdb -o a.pdb -y -d
