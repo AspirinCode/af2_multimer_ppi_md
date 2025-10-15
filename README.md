@@ -1,4 +1,7 @@
 # AlphaFold-Multimer_PPI_MD
+This repository contains the workflow, scripts, and analysis pipelines developed for conformational sampling of protein–protein complexes using a hybrid AlphaFold-Multimer + Molecular Dynamics (MD) approach.
+The project constitutes one subchapter of Jianmin Wang’s Ph.D. dissertation at Yonsei University.
+
 
 **Protein-Protein Complex Conformational Sampling via AlphaFold-Multimer and Molecular Dynamics**
 
